@@ -26,7 +26,6 @@ git clone https://android.googlesource.com/device/google/bonito-sepolicy -b andr
 git clone https://github.com/UnicornioSucio/android_vendor_google vendor/google
 git clone https://github.com/stebomurkn420/kernel_google_bluecross kernel/google/bluecross
 git clone https://gitlab.com/DirtyUnicorns/android_vendor_pixelgapps.git vendor/pixelgapps
-git clone https://gitlab.com/shagbag913/vendor_gapps.git -b lineage-17.0 vendor/gapps
 git clone https://gitlab.com/stebomurkn420/vendor_images.git -b ten vendor/images
 git clone https://android.googlesource.com/platform/hardware/qcom/sdm710/display -b android-9.0.0_r47 hardware/qcom/sdm710/display
 git clone https://android.googlesource.com/platform/hardware/qcom/sdm710/gps -b android-9.0.0_r47 hardware/qcom/sdm710/gps
@@ -40,4 +39,3 @@ git clone https://github.com/stebomurkn420/hardware_qcom_sdm710_data_ipacfg-mgr 
 lunch mTresk_sargo-userdebug
 
 make -j8 |& tee /tmp/build.log
-
