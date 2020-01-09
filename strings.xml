@@ -37,7 +37,7 @@
     <string name="action_donate">寄付</string>
     <string name="msg_donate">如果您乐意，可以鼓励我提高知识水平，更好地开发应用</string>
     <string name="action_donate_alipay">支付宝</string>
-    <string name="info_donate_thanks">感謝します、ドクター。</string>
+    <string name="info_donate_thanks">寄付をしていただきありがとうございます。。</string>
     <string name="title_comment">应用评分</string>
     <string name="desc_comment">在酷安评论区吐槽</string>
     <string name="title_discuss">群聊讨论</string>
