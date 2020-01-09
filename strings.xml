@@ -26,7 +26,7 @@
    O <string name="action_timer">作動時間</string>
    O <string name="info_timer_min">%d分間</string>
    O <string name="info_timer_none">制限なし</string>
-   O <string name="info_timer_set">作動時間は%s分に設定しました</string>
+   O <string name="info_timer_set">作動時間は%s分間に設定しました</string>
    O <string name="action_night">ダークテーマ</string>
    O <string name="info_gesture_request">ARGS™を開始してください</string>
    O <string name="info_gesture_connected">ARGS™開始</string>
