@@ -1,8 +1,8 @@
 <resources>
    X <string name="app_name">方舟帮帮忙</string>
-   X <string name="gesture_label">ARGS™</string>
+   O <string name="gesture_label">ARGS™</string>
    O <string name="gesture_description">ARGS™を使って、選択したステージを継続的に代理指揮をすることができます。\n\n開始する前にステージを選び、代理指揮をチェックしてください。\n\n本サービスの使用によるアカウントが異常と判別されることがあります。いかなる損害に本アプリ及び開発者は責任を負いかねます。\n\nARGS™を使用する際に請求した権限は全てゲームの代理指揮のためであり、本サービスを通して個人情報を収集することは一切ありません。\n\nトラブルやコメントがあれば、ぜひレポートをお願いします。</string>
-   X <string name="overlay_label">ARSS™</string>
+   O <string name="overlay_label">ARSS™</string>
    O <string name="menu_home">ホーム</string>
    O <string name="menu_tools">ツール</string>
    O <string name="menu_settings">設定</string>
@@ -35,7 +35,7 @@
    X <string name="msg_resolution_unsupported">戳戳乐™暂未适配%d×%d分辨率，请在关于向开发者反馈。\n您仍可正常使用公开招募规划等功能。</string>
    X <string name="title_about">关于</string>
    O <string name="action_donate">寄付について</string>
-   O <string name="msg_donate">もし良かったら、寄付をお願いします。</string>
+   O <string name="msg_donate">もし良ければ、寄付をお願いします。</string>
    O <string name="action_donate_alipay">アリペイ</string>
    O <string name="info_donate_thanks">寄付をしていただきありがとうございます。</string>
    O <string name="title_comment">アプリレビュー</string>
