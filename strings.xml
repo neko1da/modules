@@ -11,10 +11,10 @@
    O <string name="state_loading">起動中…</string>
    O <string name="state_ready">起動完了、始めましょう</string>
     <string name="msg_permission_overlay">- 他のアプリの上に重ねて表示する権限\n可通过悬浮球在游戏内使用公开招募规划等功能</string>
-    <string name="info_overlay_connected">帮帮忙™已连接</string>
-    <string name="info_overlay_disconnected">帮帮忙™连接解除</string>
-    <string name="action_overlay_disconnect">解除</string>
-    <string name="action_overlay_collapse">收起</string>
+   O <string name="info_overlay_connected">ARSS™接続込み</string>
+   O <string name="info_overlay_disconnected">ARSS™接続解除</string>
+   O <string name="action_overlay_disconnect">解除</string>
+   O <string name="action_overlay_collapse">最小化</string>
    O <string name="title_recruit">公開求人の企画</string>
    O <string name="action_reset">リセット</string>
     <string name="tip_recruit_result_none">暂无符合需求的干员</string>
