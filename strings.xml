@@ -6,7 +6,7 @@
     <string name="menu_home">ホーム</string>
     <string name="menu_tools">ツール</string>
     <string name="menu_settings">設定</string>
-    <string name="state_permission_request">権限の請求</string>
+    <string name="state_permission_request">アクセス権限の請求</string>
     <string name="state_resolution_unsupported">デバイスはサポートされていません</string>
     <string name="state_loading">起動中…</string>
     <string name="state_ready">起動完了、始めましょう</string>
