@@ -62,8 +62,8 @@
    O <string name="error_occurred">エラー</string>
    O <string name="coming_soon"乞うご期待</string>
    O <string name="auto_update_title">アプリの自動アップデート</string>
-   O <string name="auto_update_summary_on">定期的に自動アップデートをする</string>
-    <string name="auto_update_summary_off">可以在关于手动获取更新</string>
+   O <string name="auto_update_summary_on">定期的にアップデートチェックをする</string>
+    <string name="auto_update_summary_off">"アプリについて"でのアップデートチェックも可能</string>
    O <string name="launch_game_title">ゲームを起動する</string>
    O <string name="launch_game_summary">必要時にゲームを自動起動する</string>
    O <string name="launch_package_title">サーバー選択</string>
