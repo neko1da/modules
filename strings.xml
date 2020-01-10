@@ -39,9 +39,9 @@
     <string name="action_donate_alipay">アリペイ</string>
     <string name="info_donate_thanks">寄付をしていただきありがとうございます。</string>
     <string name="title_comment">アプリレビュー</string>
-    <string name="desc_comment">在酷安评论区吐槽※</string>
-    <string name="title_discuss">群聊讨论※</string>
-    <string name="desc_discuss">加入QQ群，抢先体验新版本※</string>
+    <string name="desc_comment">こちらは現在あなたの地域ではご利用になりません</string>
+    <string name="title_discuss">チャットグループ</string>
+    <string name="desc_discuss">こちらは現在あなたの地域ではご利用になりません</string>
     <string name="title_project">プロジェクトページ</string>
     <string name="desc_project">GitHubでレポートをする</string>
     <string name="version_current">現在のバージョン</string>
