@@ -50,7 +50,7 @@
    O <string name="version_latest">既に最新バージョンにアップデート込み</string>
    O <string name="version_update">新しいアップデートを見つけました</string>
    O <string name="version_type">バージョンタイプ</string>
-    <string name="version_type_beta">Luna版本仅供测试，实际情况请以正式版本为准</string>
+   O <string name="version_type_beta">Lunaバージョンはテスト版であり、正式版に一部の機能が変動する場合があります。</string>
    O <string name="version_type_lite">Lily</string>
    O <string name="version_type_pro">Originium</string>
    O <string name="version_type_changed">バージョンタイプを変更しました。アプリを再起動してください</string>
@@ -63,7 +63,7 @@
    O <string name="coming_soon"乞うご期待</string>
    O <string name="auto_update_title">アプリの自動アップデート</string>
    O <string name="auto_update_summary_on">定期的にアップデートチェックをする</string>
-    <string name="auto_update_summary_off">"アプリについて"でのアップデートチェックも可能</string>
+   O <string name="auto_update_summary_off">"アプリについて"でのアップデートチェックも可能</string>
    O <string name="launch_game_title">ゲームを起動する</string>
    O <string name="launch_game_summary">必要時にゲームを自動起動する</string>
    O <string name="launch_package_title">サーバー選択</string>
