@@ -67,8 +67,8 @@
     <string name="launch_game_title">ゲームを起動する</string>
     <string name="launch_game_summary">必要時にゲームを自動起動する</string>
     <string name="launch_package_title">サーバー選択</string>
-    <string name="ascending_star_title">保底优先※</string>
-    <string name="ascending_star_summary">规划方案中干员按★升序排序※</string>
+    <string name="ascending_star_title">並び替え</string>
+    <string name="ascending_star_summary">★の低いオペレーター順に並び替える</string>
     <string name="scroll_to_result_title">快速导航※</string>
     <string name="scroll_to_result_summary">选择5个标签后直接滑动到规划方案※</string>
     <string name="tag_time_3">7:40～9:00</string>
