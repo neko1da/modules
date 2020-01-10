@@ -53,7 +53,7 @@
     <string name="version_type_beta">Lunaバージョンはテスト版であり、正式版に一部の機能が変動する場合があります</string>
     <string name="version_type_lite">Lily</string>
     <string name="version_type_pro">Originium</string>
-    <string name="version_type_changed">バージョンタイプを変更しました。アプリを再起動してください</string>
+    <string name="version_type_changed">バージョンタイプを変更しました。デバイスを再起動してください</string>
     <string name="action_update">アップデート</string>
     <string name="got_it">了解</string>
     <string name="go_to_settings">設定する</string>
