@@ -82,7 +82,7 @@
     <string name="tag_star_1">★1</string>
     <string name="tag_qualification_6">高级资深干员※</string>
     <string name="tag_qualification_5">资深干员※</string>
-    <string name="tag_qualification_2">初期※</string>
+    <string name="tag_qualification_2">初期</string>
     <string name="tag_qualification_1">支援机械※</string>
     <string name="tag_position_1">近战位※</string>
     <string name="tag_position_2">远程位※</string>
@@ -100,8 +100,8 @@
     <string name="tag_tags_4">治療</string>
     <string name="tag_tags_5">输出※</string>
     <string name="tag_tags_6">防护※</string>
-    <string name="tag_tags_7">费用回复※</string>
-    <string name="tag_tags_8">快速复活※</string>
+    <string name="tag_tags_7">COST回復</string>
+    <string name="tag_tags_8">快速復帰</string>
     <string name="tag_tags_9">削弱※</string>
     <string name="tag_tags_10">支援※</string>
     <string name="tag_tags_11">位移※</string>
