@@ -56,8 +56,8 @@
     <string name="version_type_changed">バージョンタイプを変更しました。デバイスを再起動してください</string>
     <string name="action_update">アップデート</string>
     <string name="got_it">了解</string>
-    <string name="go_to_settings">設定する</string>
-    <string name="no_thanks">結構です</string>
+    <string name="go_to_settings">許可</string>
+    <string name="no_thanks">拒否</string>
     <string name="no_way">次回</string>
     <string name="error_occurred">エラー</string>
     <string name="coming_soon"乞うご期待</string>
