@@ -32,7 +32,7 @@
     <string name="info_gesture_connected">ARGS™開始</string>
     <string name="info_gesture_disconnected">ARGS™終了</string>
     <string name="info_gesture_running">ARGS™作動中,残り%d分</string>
-    <string name="msg_resolution_unsupported">ARGS™はまだ解像度%d×%dに対応していません。レポートをしてください。\n公開求人の企画等の機能は使用できます。</string>
+    <string name="msg_resolution_unsupported">ARGS™はまだ解像度%d×%dに対応していません。レポートをしてください。\n公開求人の企画等の機能には影響しません。</string>
     <string name="title_about">ArkTapについて</string>
     <string name="action_donate">寄付について</string>
     <string name="msg_donate">もしよろしければ、寄付をお願いいたします。</string>
