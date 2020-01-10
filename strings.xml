@@ -53,7 +53,7 @@
     <string name="version_type_beta">Luna版本仅供测试，实际情况请以正式版本为准</string>
    O <string name="version_type_lite">Lily</string>
    O <string name="version_type_pro">Originium</string>
-    <string name="version_type_changed">版本类型已更新，重启设备即可生效</string>
+   O <string name="version_type_changed">バージョンタイプを変更しました。アプリを再起動してください</string>
    O <string name="action_update">アップデート</string>
    O <string name="got_it">了解</string>
    O <string name="go_to_settings">設定する</string>
@@ -62,7 +62,7 @@
    O <string name="error_occurred">エラー</string>
    O <string name="coming_soon"乞うご期待</string>
    O <string name="auto_update_title">アプリの自動アップデート</string>
-   O <string name="auto_update_summary_on">定期的に自動アップデートをします</string>
+   O <string name="auto_update_summary_on">定期的に自動アップデートをする</string>
     <string name="auto_update_summary_off">可以在关于手动获取更新</string>
    O <string name="launch_game_title">ゲームを起動する</string>
    O <string name="launch_game_summary">必要時にゲームを自動起動する</string>
