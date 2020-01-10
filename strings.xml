@@ -60,7 +60,7 @@
     <string name="no_thanks">拒否する</string>
     <string name="no_way">また今度</string>
     <string name="error_occurred">エラー</string>
-    <string name="coming_soon"乞うご期待</string>
+    <string name="coming_soon">乞うご期待</string>
     <string name="auto_update_title">アプリの自動アップデート</string>
     <string name="auto_update_summary_on">定期的にアップデートチェックをする</string>
     <string name="auto_update_summary_off">‘ArkTapについて’でのアップデートチェックも可能</string>
