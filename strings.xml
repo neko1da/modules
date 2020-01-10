@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">方舟帮帮忙※</string>
+    <string name="app_name">ArkTap</string>
     <string name="gesture_label">ARGS™</string>
     <string name="gesture_description">ARGS™を使って、選択したステージを継続的に代理指揮をすることができます。\n\n開始する前にステージを選び、代理指揮をチェックしてください。\n\n本サービスの使用によるアカウントが異常と判別されることがあります。いかなる損害に本アプリ及び開発者は責任を負いかねます。\n\nARGS™を使用する際に請求した権限は全てゲームの代理指揮のためであり、本サービスを通して個人情報を収集することは一切ありません。\n\nトラブルやコメントがあれば、ぜひレポートをお願いします。</string>
     <string name="overlay_label">ARSS™</string>
@@ -36,7 +36,7 @@
     <string name="title_about">アプリについて</string>
     <string name="action_donate">寄付について</string>
     <string name="msg_donate">もし良ければ、寄付をお願いします。</string>
-    <string name="action_donate_alipay">アリペイ</string>
+    <string name="action_donate_alipay">PAYPAL</string>
     <string name="info_donate_thanks">寄付をしていただきありがとうございます。</string>
     <string name="title_comment">アプリレビュー</string>
     <string name="desc_comment">こちらは現在あなたの地域ではご利用になりません</string>
