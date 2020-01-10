@@ -22,7 +22,7 @@
     <string name="tip_recruit_result_normal">选择支援机械招募短时限可锁定1★※</string>
     <string name="tip_recruit_result_good">★4のオペレーターを獲得可能</string>
     <string name="tip_recruit_result_great">★5のオペレーターを獲得可能</string>
-    <string name="tip_recruit_result_excellent">选择高级资深干员招募9小时必得6★干员！招募9小时必得6★干员！！必得6★干员！！！柠檬树上柠檬果，柠檬树下只有我～※</string>
+    <string name="tip_recruit_result_excellent">㊗"上級エリート"タグを選択し、求人時間を9時間にすれば必ず★6のオペレーターが貰えます㊗</string>
     <string name="action_timer">作動時間</string>
     <string name="info_timer_min">%d分間</string>
     <string name="info_timer_none">制限なし</string>
