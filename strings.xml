@@ -50,7 +50,7 @@
     <string name="version_latest">既に最新バージョンにアップデート込み</string>
     <string name="version_update">新しいアップデートを見つけました</string>
     <string name="version_type">バージョンタイプ</string>
-    <string name="version_type_beta">Lunaバージョンはテスト版であり、正式版に一部の機能が変動する場合があります。</string>
+    <string name="version_type_beta">Lunaバージョンはテスト版であり、正式版に一部の機能が変動する場合があります</string>
     <string name="version_type_lite">Lily</string>
     <string name="version_type_pro">Originium</string>
     <string name="version_type_changed">バージョンタイプを変更しました。アプリを再起動してください</string>
