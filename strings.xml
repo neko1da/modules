@@ -63,7 +63,7 @@
     <string name="coming_soon"乞うご期待</string>
     <string name="auto_update_title">アプリの自動アップデート</string>
     <string name="auto_update_summary_on">定期的にアップデートチェックをする</string>
-    <string name="auto_update_summary_off">‘アプリについて’でのアップデートチェックも可能</string>
+    <string name="auto_update_summary_off">‘ArkTapについて’でのアップデートチェックも可能</string>
     <string name="launch_game_title">ゲームを起動する</string>
     <string name="launch_game_summary">必要時にゲームを自動起動する</string>
     <string name="launch_package_title">サーバー選択</string>
