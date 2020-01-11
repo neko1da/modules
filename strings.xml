@@ -1,4 +1,4 @@
-<resources>
+０<resources>
     <string name="app_name">ArkTap</string>
     <string name="gesture_label">ARGS™</string>
     <string name="gesture_description">ARGS™を使って、既にクリアしたステージを継続的にプレイすることができます。\n\n開始する前にステージを選び、代理指揮にチェックを入れてから始めてください。\n\n本サービスの使用によるプレイヤーのアカウントが異常と判別されることがあります。これによって発生した如何なる損害に本アプリ及び開発者は責任を負いかねます。\n\nARGS™を使用する際に請求するアクセス権限は全てゲームプレイのためであり、本サービスを通してプレイヤーの個人情報を収集することは一切ございません。\n\nトラブルやコメントがあれば、ぜひレポートをお願いします。</string>
@@ -70,7 +70,7 @@
     <string name="ascending_star_title">並び替え</string>
     <string name="ascending_star_summary">★の低いオペレーター順に並び替える</string>
     <string name="scroll_to_result_title">オートスライディング</string>
-    <string name="scroll_to_result_summary">5つのタグを選び終えたら自動的に下へスライディングする</string>
+    <string name="scroll_to_result_summary">5つのタグを選び終えたら自動的に下へスライドする</string>
     <string name="tag_time_3">7:40～9:00</string>
     <string name="tag_time_2">4:00～7:30</string>
     <string name="tag_time_1">1:00～3:50</string>
